@@ -5,7 +5,7 @@ Stats are displayed on eight different "screens" that are cycled through in 30 s
 The first two (version and uptime) are only shown for 15 seconds.
 
 Example screen:
-<img align=right width="500" src="https://i.imgur.com/WkKokhu.png">
+<img width="500" src="https://i.imgur.com/tyPwkvJ.jpg">
 
 Currently implemented screens:
 - PiHole and FTL version
