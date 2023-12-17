@@ -1,7 +1,7 @@
 # pihole_lcd
 ### Script for displaying PiHole stats on an i2c 1602 LCD
 
-Stats are displayed on eight different "screens" that are cycled through in 30 sec. intervals.
+Stats are displayed on eight different "screens" that are cycled through in 30 sec. intervals.  
 The first two (version and uptime) are only shown for 15 seconds.
 
 Example screen:  
