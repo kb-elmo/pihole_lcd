@@ -4,7 +4,7 @@
 Stats are displayed on eight different "screens" that are cycled through in 30 sec. intervals.
 The first two (version and uptime) are only shown for 15 seconds.
 
-Example screen:
+Example screen:  
 <img width="500" src="https://i.imgur.com/tyPwkvJ.jpg">
 
 Currently implemented screens:
